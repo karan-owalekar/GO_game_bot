@@ -51,4 +51,5 @@ python tournament.py -p1 player_1.py -p2 player_2.py -n 20
 ## 🎮 Gameplay Demo
 
 Watch a quick video demonstration of the Little-Go GUI and AI agents in action:
-![Image](https://github.com/user-attachments/assets/a10ca74e-db03-4bd0-b933-b32c62275d3a)
+
+<img src="https://github.com/user-attachments/assets/a10ca74e-db03-4bd0-b933-b32c62275d3a" width="400"/>
