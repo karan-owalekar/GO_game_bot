@@ -1,0 +1,42 @@
+
+[Executed at: Fri Nov 3 12:04:04 PDT 2023]
+
+Programming language...
+PY
+
+Fri 03 Nov 2023 11:43:23 AM PDT
+
+Playing with random_player...
+Fri 03 Nov 2023 11:43:23 AM PDT
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with greedy_player...
+Fri 03 Nov 2023 11:47:48 AM PDT
+=====Summary=====
+You play as Black Player | Win: 8 | Lose: 2 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with aggressive_player...
+Fri 03 Nov 2023 11:52:48 AM PDT
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with alphabeta_player...
+Fri 03 Nov 2023 11:58:08 AM PDT
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Result:
+Random win rate: 1
+Greedy win rate: 0.9
+Aggressive win rate: 1
+Alphabeta win rate: 1, Score:15
+Final score: 90/90
+
+Mission Completed.
+Fri 03 Nov 2023 12:03:56 PM PDT
+

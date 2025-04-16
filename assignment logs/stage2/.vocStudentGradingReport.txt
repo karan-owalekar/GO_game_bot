@@ -1,0 +1,28 @@
+
+[Executed at: Fri Nov 3 11:55:18 PDT 2023]
+
+Programming language...
+PY
+
+Fri 03 Nov 2023 11:38:37 AM PDT
+
+Playing with qlearning_player...
+Fri 03 Nov 2023 11:38:37 AM PDT
+=====Summary=====
+You play as Black Player | Win: 10 | Lose: 0 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with championship_player...
+Fri 03 Nov 2023 11:44:28 AM PDT
+=====Summary=====
+You play as Black Player | Win: 0 | Lose: 10 | Tie: 0
+You play as White Player | Win: 0 | Lose: 10 | Tie: 0
+
+Result:
+qlearning win rate: 1
+championship win rate: 0
+Final score: 5
+
+Mission Completed.
+Fri 03 Nov 2023 11:55:13 AM PDT
+
