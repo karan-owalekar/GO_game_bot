@@ -36,16 +36,18 @@ Each agent is a self-contained script inside the `players/` directory. All playe
 
 ---
 
-## 🖥 GUI: Play Bot vs Bot or Manual vs Bot
+## 🖥 Run Files
 
+#### GUI: Play Bot vs Bot or Manual vs Bot
 To launch the game with a beautiful board interface:
 
 ```bash
 python main.py
 ```
+To simulate over several (n) rounds:
 
 ```bash
-python tournament.py -p1 player_1.py -p2 player_2.py -n 20
+python tournament.py -p1 <player_1>.py -p2 <player_2>.py -n 20
 ```
 
 ---
