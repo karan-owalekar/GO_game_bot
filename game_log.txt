@@ -1,0 +1,42 @@
+greedy_player.py played: 4,3
+my_player.py played: 2,2
+greedy_player.py played: 3,2
+my_player.py played: 1,1
+greedy_player.py played: 1,0
+my_player.py played: 1,3
+greedy_player.py played: 0,3
+my_player.py played: 0,2
+greedy_player.py played: 4,2
+my_player.py played: 3,1
+greedy_player.py played: 2,0
+my_player.py played: 0,4
+greedy_player.py played: 2,4
+my_player.py played: 0,1
+greedy_player.py played: 1,4
+my_player.py played: 0,3
+greedy_player.py played: 3,3
+my_player.py played: 2,3
+greedy_player.py played: 0,0
+my_player.py played: 2,1
+greedy_player.py played: 3,4
+my_player.py played: 4,0
+greedy_player.py played: 4,1
+my_player.py played: 3,0
+greedy_player.py played: 0,0
+my_player.py played: 4,4
+greedy_player.py played: 2,0
+my_player.py played: 1,0
+greedy_player.py played: 4,3
+my_player.py played: 3,4
+greedy_player.py played: 2,4
+my_player.py played: 1,4
+greedy_player.py played: 4,2
+my_player.py played: 3,2
+greedy_player.py played: 3,3
+my_player.py played: 4,1
+greedy_player.py played: 4,2
+my_player.py played: 0,0
+greedy_player.py played: 4,3
+greedy_player.py has no valid moves (forced pass)
+greedy_player.py passed
+Game Over. Winner: my_player.py
